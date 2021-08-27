@@ -18,7 +18,7 @@ Usage of Tableau software are listed below:
 
 ##  Airport Data Dashboard
 
-<img src="https://github.com/Rajat6697/Tableau-Projects/blob/4be10776faa96b31019fda3314f367c9c049fb94/1.%20Airport%20Data%20Dashboard/San%20Franciso%20Airport%20Dashboard.png" alt="SS 1"/>
+<img src="https://github.com/Rajat6697/Tableau-Projects/blob/0e6eebccc5bdd1235c6b84d68d3febac9440f222/1.%20Airport%20Data%20Dashboard/Airport%20Data%20Viz.png" alt="SS 1"/>
 
 
 ##  SuperStore KPI
