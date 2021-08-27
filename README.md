@@ -15,6 +15,10 @@ Usage of Tableau software are listed below:
 - For a non-technical user, Tableau is a life saver as it offers the facility to create ‘no-code’ data queries.  
 - Ever since it was introduced, this data visualization tool is used for Business Intelligence industry. Organizations like Amazon, Walmart, Accenture, Lenovo, and so on widely use Tableau.  
 
+## SuperStore Order Dashboard
+
+<img src= "https://github.com/Rajat6697/Tableau-Projects/blob/4c72de141987d112cfdb30c91c3d1009ee7ecb21/3.%20SuperStore%20Order%20Dashboard/SuperStore%20Order%20Dashboard.png" alt= "SS 1"/>
+
 
 ##  Airport Data Dashboard
 
@@ -24,3 +28,5 @@ Usage of Tableau software are listed below:
 ##  SuperStore KPI
 
 <img src="https://github.com/Rajat6697/Tableau-Projects/blob/4be10776faa96b31019fda3314f367c9c049fb94/2.%20SuperStore%20KPI/SALES%20PERFORMANCE%20DASHBOARD.png" alt="SS 1"/>
+
+
