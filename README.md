@@ -19,14 +19,18 @@ Usage of Tableau software are listed below:
 
 <img src= "https://github.com/Rajat6697/Tableau-Projects/blob/4c72de141987d112cfdb30c91c3d1009ee7ecb21/3.%20SuperStore%20Order%20Dashboard/SuperStore%20Order%20Dashboard.png" alt= "SS 1"/>
 
+## Shipping Analytics
+<img src="https://github.com/Rajat6697/Tableau-Projects/blob/fbe8b7ace3b335a9dc8b790af9f15ef39de10f7a/4.%20Shipping%20Analytics/Dashboard%20Image.png" alt="Shipping_dashboard_img">
 
-##  Airport Data Dashboard
 
-<img src="https://github.com/Rajat6697/Tableau-Projects/blob/0e6eebccc5bdd1235c6b84d68d3febac9440f222/1.%20Airport%20Data%20Dashboard/Airport%20Data%20Viz.png" alt="SS 1"/>
 
 
 ##  SuperStore KPI
 
 <img src="https://github.com/Rajat6697/Tableau-Projects/blob/4be10776faa96b31019fda3314f367c9c049fb94/2.%20SuperStore%20KPI/SALES%20PERFORMANCE%20DASHBOARD.png" alt="SS 1"/>
+
+##  Airport Data Dashboard
+
+<img src="https://github.com/Rajat6697/Tableau-Projects/blob/0e6eebccc5bdd1235c6b84d68d3febac9440f222/1.%20Airport%20Data%20Dashboard/Airport%20Data%20Viz.png" alt="SS 1"/>
 
 
