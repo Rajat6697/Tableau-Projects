@@ -25,7 +25,7 @@ Usage of Tableau software are listed below:
 
 ## Healthcare Data Analysis
 
-<img src="https://github.com/Rajat6697/Tableau-Projects/blob/f5b2fd25403ad960741f32ee7533f495789d88a1/6.%20Healthcare%20Data%20Analysis(Ineuron%20Internship%20Project)/Healthcare_analysis_dashboard_img.png" alt="ss">
+<img src="https://github.com/Rajat6697/Tableau-Projects/blob/4c7ac0706c95ee02f54f8185cdedee2cd22daaa0/6.%20Healthcare%20Data%20Analytics(%20Ineuron%20Internship%20Project)/Screenshot_dashboard.png" alt="ss">
 
 
 
