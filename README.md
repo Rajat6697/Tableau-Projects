@@ -23,6 +23,10 @@ Usage of Tableau software are listed below:
 <img src="https://github.com/Rajat6697/Tableau-Projects/blob/fbe8b7ace3b335a9dc8b790af9f15ef39de10f7a/4.%20Shipping%20Analytics/Dashboard%20Image.png" alt="Shipping_dashboard_img">
 
 
+## Healthcare Data Analysis
+
+<img src"https://github.com/Rajat6697/Tableau-Projects/blob/f5b2fd25403ad960741f32ee7533f495789d88a1/6.%20Healthcare%20Data%20Analysis(Ineuron%20Internship%20Project)/Healthcare_analysis_dashboard_img.png" alt="ss">
+
 
 
 ##  SuperStore KPI
