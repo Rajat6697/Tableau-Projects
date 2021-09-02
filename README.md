@@ -33,6 +33,12 @@ Usage of Tableau software are listed below:
 
 
   <a href= "https://github.com/Rajat6697/Tableau-Projects/tree/main/4.%20Shipping%20Analytics" target= "_blank_"> Project Link </a>
+  
+## Video Games Sales Analytics
+
+<img src= "https://github.com/Rajat6697/Tableau-Projects/blob/e12d50773e824ae4cf933544cabf7adc27f47892/5.%20Video%20Games%20Sales%20Anlytics/Screenshot%20(256).png" alt= "vg_sales_db.img" />
+
+<a href= "https://github.com/Rajat6697/Tableau-Projects/tree/main/5.%20Video%20Games%20Sales%20Anlytics" > Project Link </a>
 
 ## IPL Stats Analysis
 
