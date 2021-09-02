@@ -19,15 +19,20 @@ Usage of Tableau software are listed below:
 
 <img src="https://github.com/Rajat6697/Tableau-Projects/blob/b1ba2cf1c1df1ed9193ca243db7740a604cb923e/2.%20SuperStore%20KPI/Sales_Perfm_DB.png" alt="SS 1"/>
 
-<a href= "https://github.com/Rajat6697/Tableau-Projects/tree/main/2.%20SuperStore%20KPI" target="_blank"> Project Link <a>
+<a href= "https://github.com/Rajat6697/Tableau-Projects/tree/main/2.%20SuperStore%20KPI" target="_blank"> Project Link </a>
 
 
 ## SuperStore Order Dashboard
 
 <img src= "https://github.com/Rajat6697/Tableau-Projects/blob/4c72de141987d112cfdb30c91c3d1009ee7ecb21/3.%20SuperStore%20Order%20Dashboard/SuperStore%20Order%20Dashboard.png" alt= "SS 1"/>
+  
+  <a href= "https://github.com/Rajat6697/Tableau-Projects/tree/main/3.%20SuperStore%20Order%20Dashboard" target= "_blank_"> Project Link </a>
 
 ## Shipping Analytics
 <img src="https://github.com/Rajat6697/Tableau-Projects/blob/fbe8b7ace3b335a9dc8b790af9f15ef39de10f7a/4.%20Shipping%20Analytics/Dashboard%20Image.png" alt="Shipping_dashboard_img">
+
+
+  <a href= "https://github.com/Rajat6697/Tableau-Projects/tree/main/4.%20Shipping%20Analytics" target= "_blank_"> Project Link </a>
 
 ## IPL Stats Analysis
 
@@ -35,13 +40,22 @@ Usage of Tableau software are listed below:
 
 <img src= "https://github.com/Rajat6697/Tableau-Projects/blob/c88f2fc6d578619125ad6a69b5fe2374ffade0c0/7.%20IPL%20Stats%20Analytics/IPL_Stats_DB2.png" alt= "IPL_STATS_DB.IMG" >
 
+
+  <a href= "https://github.com/Rajat6697/Tableau-Projects/tree/main/7.%20IPL%20Stats%20Analytics" target= "_blank_"> Project Link </a>
+
 ## Healthcare Data Analysis
 
 <img src="https://github.com/Rajat6697/Tableau-Projects/blob/4c7ac0706c95ee02f54f8185cdedee2cd22daaa0/6.%20Healthcare%20Data%20Analytics(%20Ineuron%20Internship%20Project)/Screenshot_dashboard.png" alt="ss">
 
 
+  <a href= "https://github.com/Rajat6697/Tableau-Projects/tree/main/6.%20Healthcare%20Data%20Analytics(%20Ineuron%20Internship%20Project)" target= "_blank_"> Project Link </a>
+
+
 ##  Airport Data Dashboard
 
 <img src="https://github.com/Rajat6697/Tableau-Projects/blob/0e6eebccc5bdd1235c6b84d68d3febac9440f222/1.%20Airport%20Data%20Dashboard/Airport%20Data%20Viz.png" alt="SS 1"/>
+
+
+  <a href= "https://github.com/Rajat6697/Tableau-Projects/tree/main/1.%20Airport%20Data%20Dashboard" target= "_blank_"> Project Link </a>
 
 
