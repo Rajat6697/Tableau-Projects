@@ -19,7 +19,7 @@ Usage of Tableau software are listed below:
 
 <img src="https://github.com/Rajat6697/Tableau-Projects/blob/b1ba2cf1c1df1ed9193ca243db7740a604cb923e/2.%20SuperStore%20KPI/Sales_Perfm_DB.png" alt="SS 1"/>
 
-<a src= "https://github.com/Rajat6697/Tableau-Projects/tree/main/2.%20SuperStore%20KPI"> Project Link <a>
+<a href= "https://github.com/Rajat6697/Tableau-Projects/tree/main/2.%20SuperStore%20KPI" target="_blank"> Project Link <a>
 
 
 ## SuperStore Order Dashboard
